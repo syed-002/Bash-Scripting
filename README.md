@@ -1,2 +1,2 @@
 # Bash-Scripting
-Assignment of Bssh Scripting
+Assignment on bash
