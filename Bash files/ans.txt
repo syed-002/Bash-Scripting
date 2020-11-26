@@ -1,0 +1,3 @@
+sed -i 's/a b f g/a.txt b.txt f.txt g.txt/g' to_delete.txt | cd delete/ find `cat to_delete.txt` -delete
+
+ls -Rr | grep 'string'
